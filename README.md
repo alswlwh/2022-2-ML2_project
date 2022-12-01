@@ -23,35 +23,42 @@
 </code>
 </pre>
 
-3. Run baseline.py
+3. Move to directory
+<pre>
+<code>
+%cd 2022-2-ML2_project
+</code>
+</pre>
+
+4. Run baseline.py
 <pre>
 <code>
 !python baseline.py
 </code>
 </pre>
 
-4. Run augmentation.py
+5. Run augmentation.py
 <pre>
 <code>
 !python augmentation.py
 </code>
 </pre>
 
-5. Run augmentation_upgrade.py
+6. Run augmentation_upgrade.py
 <pre>
 <code>
 !python augmentation_upgrade.py
 </code>
 </pre>
 
-6. Run pseudo_labeling.py
+7. Run pseudo_labeling.py
 <pre>
 <code>
 !python pseudo_labeling.py
 </code>
 </pre>
 
-7. Run noisy_student.py
+8. Run noisy_student.py
 <pre>
 <code>
 !python noisy_student.py
