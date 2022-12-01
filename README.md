@@ -4,7 +4,7 @@
 
 ## Use Google Colab
 
-1. Clone a repository 
+1. Clone this repository 
 <pre>
 <code>
 !git clone https://github.com/alswlwh/2022-2-ML2_project.git
