@@ -4,6 +4,13 @@
 
 ## Use Google Colab
 
+- Clone a repository 
+<pre>
+<code>
+!git clone https://github.com/alswlwh/2022-2-ML2_project.git
+</code>
+</pre>
+
 - Install packages
 <pre>
 <code>
