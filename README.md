@@ -4,14 +4,14 @@
 
 ## Use Google Colab
 
-- Clone a repository 
+1. Clone a repository 
 <pre>
 <code>
 !git clone https://github.com/alswlwh/2022-2-ML2_project.git
 </code>
 </pre>
 
-- Install packages
+2. Install packages
 <pre>
 <code>
 %pip install torchmetrics
@@ -23,35 +23,35 @@
 </code>
 </pre>
 
-- Run baseline.py
+3. Run baseline.py
 <pre>
 <code>
 !python baseline.py
 </code>
 </pre>
 
-- Run augmentation.py
+4. Run augmentation.py
 <pre>
 <code>
 !python augmentation.py
 </code>
 </pre>
 
-- Run augmentation_upgrade.py
+5. Run augmentation_upgrade.py
 <pre>
 <code>
 !python augmentation_upgrade.py
 </code>
 </pre>
 
-- Run pseudo_labeling.py
+6. Run pseudo_labeling.py
 <pre>
 <code>
 !python pseudo_labeling.py
 </code>
 </pre>
 
-- Run noisy_student.py
+7. Run noisy_student.py
 <pre>
 <code>
 !python noisy_student.py
