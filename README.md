@@ -1,7 +1,5 @@
 # 2022-2-ML2_project
 
-# 2022-2-ML2_project
-
 ## Pseudo labeling & Noisy student - Pytorch
 
 ## Use Google Colab
